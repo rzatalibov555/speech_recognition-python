@@ -1,0 +1,3 @@
+#!C:\Users\Legion\Desktop\pythonVoice\venv\Scripts\python.exe
+from numba.pycc import main
+main()
